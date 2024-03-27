@@ -1,4 +1,4 @@
-package com.example.algotest;
+package com.example.algotest.linkedlist;
 
 import org.springframework.boot.test.context.SpringBootTest;
 
